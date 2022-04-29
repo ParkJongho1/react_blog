@@ -1,5 +1,6 @@
 import React from "react";
 import "./singlePost.css";
+import { Link } from "react-router-dom";
 
 export default function SinglePost() {
     return (
@@ -49,6 +50,9 @@ export default function SinglePost() {
                     자문을 거쳐 경징계를 결정했다.
                 </p>
             </div>
+            <div class="blog__btn">
+                <Link to="/view">목록보기</Link>
+            </div> 
         </div>
     );
 }

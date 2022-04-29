@@ -95,7 +95,7 @@ export default function Footer() {
                         </ul>
                     </div>
                 </div>
-                <address class="footer-rights">© 2022 webstoryboy. All rights reserved.</address>
+                <address class="footer-rights">© 2022 webdeveloper. All rights reserved.</address>
             </div>
         </footer>
     );

@@ -32,3 +32,14 @@
 .single__post .desc p {
     padding-top: 20px;
 }
+.blog__btn {
+    text-align: right;
+    margin-top: 50px;
+  }
+  .blog__btn a {
+    background: #000;
+    color: #fff;
+    border-radius: 50px;
+    display: inline-block;
+    padding: 10px 30px;
+  }
